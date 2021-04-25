@@ -17,5 +17,8 @@ h1{
 .sina{
 	text-align: right;
 
-
+}
+p{
+	color: white;
+	margin-top: -250px;
 }
